@@ -41,8 +41,7 @@
           disp(h);
 
 # OUTPUT
-
-
+<img width="1043" height="581" alt="image" src="https://github.com/user-attachments/assets/63b29360-1951-43f0-8e47-dcd8b2d343be" />
 
 # RESULT
 The Low Pass FIR digital filter was successfully designed using the rectangular window method, and its impulse and frequency responses were plotted and observed to exhibit proper low-pass characteristics
